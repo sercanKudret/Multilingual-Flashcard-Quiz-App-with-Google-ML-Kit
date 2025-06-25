@@ -1,4 +1,4 @@
-# 📱 Multilingual Flashcard & Quiz App with Google ML Kit
+# 📱 Multilingual Translation & Quiz App with Google ML Kit
 
 This is a mobile language learning app built using Kotlin and Android Studio. It utilizes **Google ML Kit's Translation API** to translate words between multiple languages in real-time.
 
@@ -25,3 +25,43 @@ This is a mobile language learning app built using Kotlin and Android Studio. It
 - Google ML Kit (Translation API)
 - Text-to-Speech & Speech Recognition (Android)
 - Local Storage / SharedPreferences / SQLite (optional for saving words)
+
+&nbsp;
+
+
+<table align="center" border="0">
+  <colgroup>
+    <col width="300">
+    <col width="40">
+    <col width="300">
+  </colgroup>
+  <tr>
+    <td><img src="https://github.com/sercanKudret/Multilingual-Translation-Quiz-App-with-Google-ML-Kit/blob/main/images/1.png" width="300"/></td>
+    <td></td>
+    <td><img src="https://github.com/sercanKudret/Multilingual-Translation-Quiz-App-with-Google-ML-Kit/blob/main/images/2.png" width="300"/></td>
+  </tr>
+  <tr><td colspan="3" height="20"></td></tr>
+
+  <tr>
+    <td><img src="https://github.com/sercanKudret/Multilingual-Translation-Quiz-App-with-Google-ML-Kit/blob/main/images/3.png" width="300"/></td>
+    <td></td>
+    <td><img src="https://github.com/sercanKudret/Multilingual-Translation-Quiz-App-with-Google-ML-Kit/blob/main/images/4.png" width="300"/></td>
+  </tr>
+  <tr><td colspan="3" height="20"></td></tr>
+
+  <tr>
+    <td><img src="https://github.com/sercanKudret/Multilingual-Translation-Quiz-App-with-Google-ML-Kit/blob/main/images/5.png" width="300"/></td>
+    <td></td>
+    <td><img src="https://github.com/sercanKudret/Multilingual-Translation-Quiz-App-with-Google-ML-Kit/blob/main/images/6.png" width="300"/></td>
+  </tr>
+  <tr><td colspan="3" height="20"></td></tr>
+
+  <tr>
+    <td><img src="https://github.com/sercanKudret/Multilingual-Translation-Quiz-App-with-Google-ML-Kit/blob/main/images/7.png" width="300"/></td>
+    <td></td>
+    <td><img src="https://github.com/sercanKudret/Multilingual-Translation-Quiz-App-with-Google-ML-Kit/blob/main/images/8.png" width="300"/></td>
+  </tr>
+</table>
+
+
+
